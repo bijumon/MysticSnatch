@@ -1,0 +1,11 @@
+@import "./color_schemes/light";
+
+$link-color: $blue-000;
+$body-font-family: "Fira Sans", "Noto Sans", system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+$mono-font-family: "Fira Code", "Inconsolata", "Noto Mono", SFMono-Regular, menlo, consolas, monospace;
+
+@media (min-width: 31.25rem) {
+    html{
+        font-size: 32px !important;
+        }
+}
