@@ -11,7 +11,8 @@ MysticSnatch is an attempt to port the CatacombSnatch game to the Kotlin libKTX 
 # Links #
 
 - [CatacombSnatch](https://github.com/Maescool/Catacomb-Snatch)
-- [Kotlin LibGDX/KTX RPG Tutorial](https://www.youtube.com/playlist?list=PLTKHCDn5RKK-_mX0s8BJNz7pQecR25689) playlist 
+- [Kotlin LibGDX/KTX RPG Tutorial](https://www.youtube.com/playlist?list=PLTKHCDn5RKK-_mX0s8BJNz7pQecR25689) playlist
+- [MysticWoods RPG](https://github.com/Quillraven/MysticWoods) source @github
 - [Quillraven's channel](https://www.youtube.com/@Quillraven)
 
 - [libKTX](https://libktx.github.io)
