@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="post-title">
+    <span>{{ page.date | date_to_string }}</span> &raquo;
+    <h2 style="display:inline">
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    </h2>
+</div>
+
+{{ content }}
+
+<hr/>
+<p>{{ page.url | absolute_url }}</p>

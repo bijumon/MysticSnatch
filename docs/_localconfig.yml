@@ -3,7 +3,6 @@ description: A game in Kotlin, libKTX and libGDX
 theme: just-the-docs
 remote_theme: "pmarsceill/just-the-docs"
 color_scheme: custom
-url: https://bijumon.github.io/MysticSnatch/
 footer_content: "Copyright &copy; 2022 bijumon distributed under <a href=\"https://bijumon.github.io/MysticSnatch/LICENSE.html\">MIT license.</a>"
 
 aux_links:
