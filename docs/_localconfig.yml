@@ -1,6 +1,6 @@
 title: MysticSnatch
 description: A game in Kotlin, libKTX and libGDX
-#theme: just-the-docs
+theme: just-the-docs
 remote_theme: "pmarsceill/just-the-docs"
 
 url: https://bijumon.github.io/MysticSnatch/
