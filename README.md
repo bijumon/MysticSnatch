@@ -1,4 +1,13 @@
-# MysticSnatch
+# Work in progress 
+
+MysticSnatch is an attempt to port the game Catacomb Snatch to Kotlin/libGDX/libKTX. [Catacomb Snatch](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CatacombSnatch) is a Shoot'Em'Up game set in steampunk ancient Egypt ;D , developed in 60 hours as part of *Humble Bundle Mojam* charity event in 2012. 
+
+## Assets
+
+You need to download and extract assets from the [Community Edition](https://catacombsnatch.net/download.html) in order to play.
+
+## Source 
+* link to libktx * and other tech used
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
