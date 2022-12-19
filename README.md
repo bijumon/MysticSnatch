@@ -7,7 +7,7 @@ MysticSnatch is an attempt to port the game Catacomb Snatch to Kotlin/libGDX/lib
 You need to download and extract assets from the [Community Edition](https://catacombsnatch.net/download.html) in order to play.
 
 ## Source 
-* link to libktx * and other tech used
+- [ ] link to libktx and other tech used
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff).
 
